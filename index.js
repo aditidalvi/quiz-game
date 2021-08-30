@@ -25,7 +25,12 @@ var questionFour = {
   answer:"deepika padukone"
 }
 
-var arr = [questionOne,questionTwo,questionThree,questionFour];
+
+var questionFive = {
+  question:"My favourite movie?",
+  answer:"shershaah"
+}
+var arr = [questionOne,questionTwo,questionThree,questionFour,questionFive];
 
 var score = 0;
 
